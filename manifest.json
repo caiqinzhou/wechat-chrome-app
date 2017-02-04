@@ -1,0 +1,20 @@
+{
+    "name": "WeChat",
+    "description": "WeChat Chrome App.",
+    "version": "0.1",
+    "manifest_version": 2,
+    "app": {
+        "background": {
+            "scripts": [
+                "main.js"
+            ]
+        }
+    },
+    "icons": {
+        "16": "wechat-16.png",
+        "128": "wechat-128.png"
+    },
+    "permissions": [
+        "webview"
+    ]
+}
