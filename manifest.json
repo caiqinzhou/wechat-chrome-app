@@ -1,5 +1,5 @@
 {
-    "name": "WeChat",
+    "name": "WeChat Chrome App",
     "description": "WeChat Chrome App.",
     "version": "0.1",
     "manifest_version": 2,
@@ -12,6 +12,7 @@
     },
     "icons": {
         "16": "wechat-16.png",
+        "48": "wechat-48.png",
         "128": "wechat-128.png"
     },
     "permissions": [
