@@ -29,9 +29,7 @@ function runApp() {
             'width': 808,
             'height': 808,
             'minWidth': 807,
-            'minHeight': 601,
-            'maxWidth': 1000,
-            'maxHeight': 1000
+            'minHeight': 601
         }
     });
 }

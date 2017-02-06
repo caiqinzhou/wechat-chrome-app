@@ -1,7 +1,9 @@
 {
     "name": "WeChat Chrome App",
+    "short_name": "WeChat",
     "description": "WeChat Chrome App.",
     "version": "0.1",
+    "author": "Zhou Caiqin",
     "manifest_version": 2,
     "app": {
         "background": {
